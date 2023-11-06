@@ -8,7 +8,7 @@
       <div>
 <IMG src="picture_library/CharFrequency/charFrequency1.png">
 </div><br>
-      <div><b>Fig 3. El resultado de la ejecución del programa.</b></div><br>
+      <div><b>Fig 2. El resultado de la ejecución del programa.</b></div><br>
       <div>
 <IMG src="picture_library/CharFrequency/charFrequency2.png">
 </div><br>
